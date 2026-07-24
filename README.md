@@ -70,35 +70,12 @@ Final-year B.Tech CSE undergrad (CGPA 8.30, SR University, 2027)
 
 ---
 
-
-
-### 📌 featured projects
-
-| project | description | stack |
-|---|---|---|
-| **ML Classification — Screen Time & Child Health in India** | Preprocessed a 9,712-record dataset (Indian children 8–18); benchmarked 7 classifiers achieving 87%+ accuracy segmenting risk cohorts. Used SHAP & PDPs for interpretability and delivered policy recommendations. | Python, LightGBM, SHAP, Scikit-learn, EDA |
-| **Secondary School Dropout Prediction Model** | Built Logistic Regression & Decision Tree classifiers with cross-validation; surfaced 5 key dropout predictors for early-intervention strategies. | Python, Pandas, Scikit-learn |
-| **AWS Cloud Data Storage & Management Pipeline** | Architected a scalable S3 + DynamoDB pipeline with automated ETL via Boto3; enforced least-privilege IAM access controls. | AWS S3, DynamoDB, Boto3, IAM |
-| [project-SGPA](https://github.com/kaarteek/project-SGPA) | SGPA/grade calculator | Python |
-| [TEXT2PDF](https://github.com/kaarteek/TEXT2PDF) | Converts text input into a downloadable PDF | JavaScript |
-
 ---
 
 ### 🎓 education
 
 **B.Tech — Computer Science & Engineering**, SR University, Warangal
 Aug 2023 – May 2027 · CGPA: 8.30+
-Coursework: DSA · ML · DBMS · OS · Cloud Computing · Networks · Software Engineering · OOP
-
----
-
-### 🏆 certifications & achievements
-
-- ☁️ AWS Certified Cloud Practitioner — Amazon Web Services (2024)
-- 🌐 CCNA & CCNP — Cisco Certified Network Associate & Professional (Nov–Dec 2024)
-- 🔧 Cisco Certified Technician (CCT) — Hardware diagnostics, IOS fundamentals (Dec 2024)
-- 💼 HP Professional Development — Networking for Career Growth & Leadership, Hewlett-Packard (Feb 2026)
-- 📊 Tata Group Data Analytics Job Simulation on Forage (June 2026)
 
 ---
 
