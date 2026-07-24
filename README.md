@@ -1,7 +1,4 @@
-<!-- Animated wave header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hey,%20I'm%20Karteek%20Bevara%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer%20%7C%20Prompt%20Engineering%20%26%20AI%20Intern&descAlignY=58&descSize=16" />
-
-<p align="center">
+<!-- Animated wave header --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hey,%20I'm%20Karteek%20Bevara%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer%20%7C%20Prompt%20Engineering%20%26%20AI%20Intern&descAlignY=58&descSize=16" /> <p align="center"> <a href="https://github.com/kaarteek"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=650&lines=Final-Year+CSE+Undergrad+%40+SR+University;Prompt+Engineering+%26+AI+Intern;ML+Pipelines+%2B+Cloud+%2B+Data+Engineering;AWS+Certified+Cloud+Practitioner+%E2%9C%85" alt="Typing SVG" /> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=kaarteek&label=Profile%20Views&color=6a11cb&style=flat" alt="profile views" /> <img src="https://img.shields.io/github/followers/kaarteek?label=Followers&style=social" alt="followers" /> </p> <p align="center"> <a
   <a href="https://github.com/kaarteek">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=650&lines=Final-Year+CSE+Undergrad+%40+SR+University;Prompt+Engineering+%26+AI+Intern;ML+Pipelines+%2B+Cloud+%2B+Data+Engineering;AWS+Certified+Cloud+Practitioner+%E2%9C%85" alt="Typing SVG" />
   </a>
@@ -24,20 +21,13 @@
   </a>
 </p>
 
-<p align="center">📍 Warangal, Telangana, India</p>
+<p align="center">📍India</p>
 
 ---
 
 ### 🧑‍💻 about me
 
-Final-year B.Tech CSE undergrad (CGPA 8.30, SR University, 2027) and current **Prompt Engineering & AI Intern**, with hands-on experience across production-grade ML pipelines, scalable cloud architectures, and end-to-end data engineering — from raw data ingestion to model explainability.
-
-- 🔭 Currently interning as a **Prompt Engineering & AI Intern**, designing and iterating LLM prompts using few-shot and chain-of-thought techniques
-- 📊 Built ML classification models on real-world datasets with 87%+ accuracy
-- ☁️ Comfortable architecting AWS-based data pipelines (S3, DynamoDB, IAM, Boto3)
-- 🎓 AWS Certified Cloud Practitioner · CCNA & CCNP · Cisco Certified Technician
-
----
+Final-year B.Tech CSE undergrad (CGPA 8.30, SR University, 2027) 
 
 ### 🛠️ tech stack
 
@@ -103,15 +93,7 @@ Final-year B.Tech CSE undergrad (CGPA 8.30, SR University, 2027) and current **P
 
 ---
 
-### 💼 experience
 
-**Prompt Engineering & AI Intern** — *2026 – Present*
-Designing, testing, and iterating prompts for LLMs; applying few-shot learning and chain-of-thought techniques to improve model output quality and task alignment.
-
-**Tata Group Data Analytics Job Simulation — Forage** — *June 2026*
-Completed a simulation involving AI-powered data analytics and strategy development for the Financial Services team at Tata iQ. Designed an AI-driven collections strategy leveraging agentic AI and automation, incorporating ethical AI principles, regulatory compliance, and scalable implementation frameworks.
-
----
 
 ### 📌 featured projects
 
@@ -143,11 +125,5 @@ Coursework: DSA · ML · DBMS · OS · Cloud Computing · Networks · Software E
 
 ---
 
-### 📬 let's connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/karteek-bevara-8423b52b5/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:kaarteek3@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" />
+📬 let's connect
+<p align="left"> <a href="https://www.linkedin.com/in/karteek-bevara-8423b52b5/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a> <a href="mailto:kaarteek3@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a> </p> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" />
